@@ -101,7 +101,7 @@ https://github.com/mingmingmi/blockchain-in-js-workshop-2021/blob/lesson1/src/mo
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+https://github.com/mingmingmi/blockchain-in-js-workshop-2021/blob/lesson1/src/models/UTXO.js
 
 
 ### 代码截图
